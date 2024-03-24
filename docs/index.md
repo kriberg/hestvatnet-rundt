@@ -8,7 +8,7 @@ hide:
 Hestvatnet rundt er et tradisjonsrikt rebusløp som har blitt avholdt hver Langfredag i
 påsken, siden 90-tallet.
 
-Påmelding er åpent for alle deltakere som klarer å møte til påmelding i Gapahuken før
+Løpet er åpent for alle deltakere som klarer å møte til påmelding i Gapahuken før
 startskuddet går.
 
 ## Utforming
