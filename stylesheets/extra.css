@@ -1,0 +1,25 @@
+:root {
+  --md-primary-fg-color: #F2DA54;
+}
+
+div.md-header__title {
+  color: #505050;
+}
+a.md-header__button {
+  color: #505050;
+}
+
+footer.md-footer {
+  display: none;
+}
+
+span.gold {
+  color: #FFD700;
+}
+
+span.silver {
+  color: #C0C0C0;
+}
+span.bronze {
+  color: #CD7F32;
+}
