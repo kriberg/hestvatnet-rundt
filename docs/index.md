@@ -5,8 +5,8 @@ hide:
 
 # Om løpet
 
-Hestvatnet rundt er et tradisjonsrikt rebusløp som har blitt avholdt hver Langfredag i
-påsken, siden 90-tallet.
+Hestvatnet rundt er et tradisjonsrikt rebusløp som har blitt avholdt i påsken
+siden 1992.
 
 Løpet er åpent for alle deltakere som klarer å møte til påmelding i Gapahuken før
 startskuddet går.
